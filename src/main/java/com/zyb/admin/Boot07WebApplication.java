@@ -12,6 +12,7 @@ public class Boot07WebApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Boot07WebApplication.class, args);
+        System.out.println("1");
     }
 
 }
