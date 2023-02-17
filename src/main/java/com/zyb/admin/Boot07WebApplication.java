@@ -17,6 +17,7 @@ public class Boot07WebApplication {
         System.out.println("4");
         System.out.println("master test");
         System.out.println("hotfix-test");
+        System.out.println("pull-test");
     }
 
 }
